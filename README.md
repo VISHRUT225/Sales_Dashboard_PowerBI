@@ -1,4 +1,4 @@
-# Interactive Sales Dashboard with Advanced Filtering and Drill-Down Capabilities in Power BI
+# 📊 Interactive Sales Dashboard with Advanced Filtering and Drill-Down Capabilities in Power BI
 
 ## Overview
 
