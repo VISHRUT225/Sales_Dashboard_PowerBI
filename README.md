@@ -23,7 +23,7 @@ This project showcases an interactive sales dashboard developed using Microsoft 
 3. **Drill-Down Analysis:**
    - Click on data points within charts to drill down through hierarchical levels (e.g., from Year to Quarter to Month) for detailed analysis.
 
-- For more datails refer report [click here](./report/Sales_Dashboard_Power BI_report.pdf)
+- For more datails refer report [click here](./report)
 
 ## Getting Started
 
